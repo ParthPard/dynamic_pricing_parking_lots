@@ -22,6 +22,9 @@ I built three models, increasing in complexity and intelligence. The working pri
 - Google Colab – Execution and testing
 - Git & GitHub – Version control and repository hosting
 
+#"Working Code"
+The complete working code for all the models has been provided in the attached Jupyter notebook named "Project_capston.ipynb".
+
 
 #"Architecture Diagram"
 Using "Mermaid live editor" (Following is the link to Flowchart diagram of the project).
